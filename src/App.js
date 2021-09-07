@@ -72,8 +72,6 @@ function App(){
       average: roundAverage
     }
 
-    return <div><h1>{dayOrder.total}</h1></div>
-
   }
 
     return (
