@@ -1,0 +1,37 @@
+{
+    "SUNDAY": {
+      "total": 34.98,
+      "count": 1,
+      "avg": 34.98
+    },
+    "MONDAY": {
+      "total": 74.23,
+      "count": 2,
+      "avg": 37.12
+    },
+    "TUESDAY": {
+      "total": 0,
+      "count": 0,
+      "avg": 0
+    },
+    "WEDNESDAY": {
+      "total": 0,
+      "count": 0,
+      "avg": 0
+    },
+    "THURSDAY": {
+      "total": 0,
+      "count": 0,
+      "avg": 0
+    },
+    "FRIDAY": {
+      "total": 0,
+      "count": 0,
+      "avg": 0
+    },
+    "SATURDAY": {
+      "total": 13,
+      "count": 2,
+      "avg": 6.5
+    }
+  }
